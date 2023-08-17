@@ -1,6 +1,5 @@
-# podman
-podman walkthrough with 
-codebangkok 
+# podman walkthrough with codebangkok 
+
 https://www.youtube.com/watch?v=nqipZmZ9rgM&list=PLyZTXfAT27ibS8ItuPDPn4t6l1vDu_Hb0&index=3
  
 ### Website
